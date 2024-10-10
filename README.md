@@ -215,5 +215,13 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
+    Результат зі швидкістю об'єкта 5000 м/с
+</p>
+
+<p align="center">
   <img src="Screenshots/gif2.gif" alt="Описание изображения 4"/>
+</p>
+
+<p align="center">
+    Результат зі швидкістю об'єкта 25000 м/с
 </p>
